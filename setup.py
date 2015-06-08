@@ -14,7 +14,7 @@ setup(
     url='https://github.com/qdqmedia/django-actions/',
     license='BSD License',
     platforms=['OS Independent'],
-    packages=['django_actions', 'django_actions.templates'],
+    packages=['django_actions'],
     classifiers=CLASSIFIERS,
     zip_safe=False,
 )
