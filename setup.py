@@ -15,6 +15,7 @@ setup(
     license='BSD License',
     platforms=['OS Independent'],
     packages=['django_actions'],
+	include_package_data=True,
     classifiers=CLASSIFIERS,
     zip_safe=False,
 )
